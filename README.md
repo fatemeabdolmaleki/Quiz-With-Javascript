@@ -1,7 +1,6 @@
 # Quiz-With-Javascript
 
-![viewfinal]()
-![viewfinal]()
+![viewfinal](https://github.com/user-attachments/assets/509d61dc-a6e4-4c5a-8533-5c952d396594)
 - [Demo Project](https://fatemeabdolmaleki.github.io/Quiz-With-Javascript/)
 
 - Developed by fateme abdolmaleki
